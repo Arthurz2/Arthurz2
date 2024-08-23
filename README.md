@@ -1,6 +1,6 @@
 ## Hi there I`m Arthur Eduardo👋
 
-##### :white_check_mark: I` m a Web Developer
+##### :white_check_mark: I'm a web developer and UX/UI designer
 ##### I'm a programming student at Rocketseat https://www.rocketseat.com.br/
 ##### :rocket: Current Stacks 
 - Main Language: `Javascript`
