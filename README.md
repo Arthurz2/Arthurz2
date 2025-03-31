@@ -8,3 +8,4 @@
 - Frontend: `Reactjs`, `Html5`, `CSS`, `Javascript`  
 - Layout Design: `Figma`, `Adobe Ilustrator`, `Photoshop`
 - Version code control: `Git & Github`
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
