@@ -1,4 +1,5 @@
 ## Hi there I`m Arthur Eduardo👋
+<div style="display: flex; align-items: center;">
 
 ##### :white_check_mark: I'm a web developer and UX/UI designer
 ##### I'm a programming student at Rocketseat https://www.rocketseat.com.br/
