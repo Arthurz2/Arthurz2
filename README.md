@@ -1,5 +1,4 @@
 ## Hi there I`m Arthur Eduardo👋
-<div style="display: flex; align-items: center;">
 
 ##### :white_check_mark: I'm a web developer and UX/UI designer
 ##### I'm a programming student at Rocketseat https://www.rocketseat.com.br/
@@ -9,4 +8,4 @@
 - Frontend: `Reactjs`, `Html5`, `CSS`, `Javascript`  
 - Layout Design: `Figma`, `Adobe Ilustrator`, `Photoshop`
 - Version code control: `Git & Github`
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
