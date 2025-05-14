@@ -1,8 +1,11 @@
 Hi there! I'm Arthur Eduardo 👋
 ✅ Full Stack Developer focused on business automation for small and large companies.
 
+
+
 <h2>
-  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 8px;" /> 
+&nbsp;
   Languages and Tools
 </h2>
 
