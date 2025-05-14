@@ -1,7 +1,9 @@
 Hi there! I'm Arthur Eduardo 👋
 ✅ Full Stack Developer focused on business automation for small and large companies.
 
-## 🚀 Linguagens e ferramentas:
+<h2>
+languages ​​and tools
+</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
