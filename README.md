@@ -3,10 +3,10 @@ Hi there! I'm Arthur Eduardo 👋
 
 
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/code.png" width="24" style="vertical-align: middle; margin-right: 8px;" />
-  <span style="font-size: 20px; vertical-align: middle;">Languages and Tools</span>
-</p>
+<h2>
+  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 5px;" />
+  Languages and Tools
+</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
