@@ -4,7 +4,7 @@ Hi there! I'm Arthur Eduardo 👋
 
 
 <h2>
-  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 3px;" />
   Languages and Tools
 </h2>
 
