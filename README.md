@@ -4,7 +4,7 @@ Hi there! I'm Arthur Eduardo 👋
 
 
 <h2>
-  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 8px;" /> 
+  <img src="https://img.icons8.com/color/48/code.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
 &nbsp;
   Languages and Tools
 </h2>
@@ -22,3 +22,5 @@ Hi there! I'm Arthur Eduardo 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="30" alt="Insomnia" />
 </p>
+
+<img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
