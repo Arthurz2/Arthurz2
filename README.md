@@ -1,6 +1,6 @@
 Hi there! I'm Arthur Eduardo 👋
 ✅ Full Stack Developer focused on business automation for small and large companies.
-
+https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fczf56wunsqu2jkzx9yqi.gif
 <h2>
 languages ​​and tools
 </h2>
