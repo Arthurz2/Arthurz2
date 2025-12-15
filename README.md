@@ -21,5 +21,3 @@ Olá! Eu sou Arthur👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />
     <img src="https://res.cloudinary.com/apideck/image/upload/v1570559986/catalog/n8n-io/icon128x128.png" height="30" alt="N8n" />
 </p>
-
-<img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
